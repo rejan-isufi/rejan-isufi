@@ -4,15 +4,16 @@
 Currently in my 2nd year, building a foundation in Python, machine learning, and data work.
 
 ## 🔭 What I'm working on
-- Learning *machine learning fundamentals* and scikit-learn,deep learning (neural networks with PyTorch) 
-- Learning *Java language *
-- Building personal projects for my GitHub portfolio
+- Learning **machine learning fundamentals** and scikit-learn.
+- Exploring **deep learning** (neural networks with PyTorch)
+- Learning **Java**
 
 ## 🛠️ Skills
 - *Programming:* Python (certified), Java (learning)
 - *Data:* Data cleaning and preparation
 - *Networking & Security:* Network protocols, security basics (certified in networks)
-- *Web:*  Web protocols, security fundamentals , and basic web deployment 
+- **Web:** Built and deployed my own website [https://rejanisufi.uk]
+
 ## 📂 Projects
 - *Data Cleaning Project:* Cleaned and prepared a 50-row dataset using Python 
 - *Personal Website:* [rejanisufi.uk](https://rejanisufi.uk)
