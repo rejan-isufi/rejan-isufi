@@ -1,6 +1,6 @@
 # Hi, I'm Rejan Isufi 👋
 
-*Data Science & AI student* at the Canadian Institute of Technology (CIT), Tirana, Albania 🇦🇱
+*Data Science & AI student* at the Canadian Institute of Technology (CIT) in Tirana.
 Currently in my 2nd year, building a foundation in Python, machine learning, and data work.
 
 ## 🔭 What I'm working on
