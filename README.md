@@ -1,47 +1,28 @@
-# Rejan
-Hi, I'm Rejan! I am a Data Science and Artificial Intelligence student based in Albania. I am passionate about turning raw data into actionable insights and exploring the security landscape through ethical hacking.
+# Hi, I'm Rejan Isufi 👋
 
-### 💻 My Favorite Snippet
-Here is afunction I wrote to clean data in one of my projects:
+*Data Science & AI student* at the Canadian Institute of Technology (CIT), Tirana, Albania 🇦🇱
+Currently in my 2nd year, building a foundation in Python, machine learning, and data work.
 
-```python
-def clean_data(df):
-    # Removes duplicates and handles missing values
-    df = df.drop_duplicates()
-    df.fillna(method='ffill', inplace=True)
-    return df
+## 🔭 What I'm working on
+- Learning *machine learning fundamentals* and scikit-learn,deep learning (neural networks with PyTorch) 
+- Learning *Java language *
+- Building personal projects for my GitHub portfolio
 
-    
-    # 1. Standardize column names (lowercase and no spaces)
-    df.columns = [col.lower().replace(' ', '_') for col in df.columns]
-    
-    # 2. Remove duplicates
-    df = df.drop_duplicates()
-    
-    # 3. Handle missing values: Fill numerical with median, categorical with 'unknown'
-    for col in df.select_dtypes(include=['number']).columns:
-        df[col] = df[col].fillna(df[col].median())
-        
-    df.fillna('unknown', inplace=True)
-    
-    return df
+## 🛠️ Skills
+- *Programming:* Python (certified), Java (learning)
+- *Data:* Data cleaning and preparation
+- *Networking & Security:* Network protocols, security basics (certified in networks)
+- *Web:*  Web protocols, security fundamentals , and basic web deployment 
+## 📂 Projects
+- *Data Cleaning Project:* Cleaned and prepared a 50-row dataset using Python 
+- *Personal Website:* [rejanisufi.uk](https://rejanisufi.uk)
 
-# Example usage:
-# cleaned_df = clean_dataset('raw_data.csv')
+## 🎓 Education & Certificates
+- B.Sc. Data Science & AI, Canadian Institute of Technology (2nd year)
+- Python certificate
+- Networking certificate
 
-
-
-Tech Stack :
- Languages: Python (Pandas, NumPy, Matplotlib, PyTorch)
- 
- Security: Kali Linux, Nmap, Network Security fundamentals
- 
- Tools: Git, GitHub, SQL, Jupyter Notebooks, Terminal/Bash
-
- What I'm working on :
- Building a portfolio of data analysis and security-focused projects.
- Automating tasks and data workflows using Python.
- Participating in CTFs and learning to identify vulnerabilities in web applications.
-
-Check out my portofolio:a link to my website -rejanisufi.uk
- 
+## 📫 Let's connect
+- 📧 [rejan.isufi@cit.edu.al]
+- 💼 [LinkedIn](https://www.linkedin.com/in/rejan-isufi-00a8b9444)
+  
